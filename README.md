@@ -1,2 +1,2 @@
 # Repository
-Let`s do this
+Let`s do this 27.02.2021 - Загружен исходный код окна "Авторизация"
